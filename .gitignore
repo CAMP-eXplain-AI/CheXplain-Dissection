@@ -1,0 +1,8 @@
+.idea
+.ipynb_checkpoints
+.runs
+/data/
+venv/
+covid-19-chest-xray-segmentations-dataset/
+dev_dataset/
+*__pycache__
