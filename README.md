@@ -104,5 +104,5 @@ We used two datast to interpret the network results. You would need to download 
 * [NIH ChestXray](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 
 ## Interpreting a model
-You can see a sample analysis with network dissection of the BrixIA model in Covid_seg_network_dissection_results.ipynb
+You can see a sample analysis with network dissection of the BrixIA model in [Covid_seg_network_dissection_results notebook](https://github.com/CAMP-eXplain-AI/CheXplain-Dissection/blob/main/Covid_seg_network_dissection_results.ipynb)
 You can replace the model defined there with a model of your choosing and run the network dissection analysis. Please refer to the explanations in the notebook to understand the resulst.
