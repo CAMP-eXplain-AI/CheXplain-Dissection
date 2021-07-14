@@ -12,7 +12,6 @@
 
 #### Resources
 View the paper on **[arXiv](https://arxiv.org/abs/2104.02481)**
-
 (The camera-ready version will appear in the proceedings of MICCAI 2021.)
 
 Check the [Code on GitHub](https://github.com/CAMP-eXplain-AI/CheXplain-Dissection)
