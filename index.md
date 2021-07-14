@@ -7,6 +7,9 @@
 
 * We also investigate the effect of pretraining and data imbalance on the interpretability of learned features
 
+![preview](method.png)
+
+
 #### Resources
 View the paper on **[arXiv](https://arxiv.org/abs/2104.02481)**
 
