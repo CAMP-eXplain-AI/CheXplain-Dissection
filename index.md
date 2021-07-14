@@ -6,6 +6,7 @@
 * Does a network that is trained on weakly labeled data (e.g. healthy, unhealthy) implicitly learn pathologies (e.g. Consolidation)?
 
 * We also investigate the effect of pretraining and data imbalance on the interpretability of learned features
+* Finally, we propose a semantic attribution (saliency) method to semantically explain each prediction
 
 ![preview](method.png)
 
