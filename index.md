@@ -10,45 +10,22 @@
 #### Resources
 View the paper on **[arXiv](https://arxiv.org/abs/2104.02481)**
 
-The camera-ready version will appear in the proceedings of MICCAI 2021.
+(The camera-ready version will appear in the proceedings of MICCAI 2021.)
 
 Check the [Code on GitHub](https://github.com/CAMP-eXplain-AI/CheXplain-Dissection)
-[![preview](code_preview.PNG)](https://github.com/CAMP-eXplain-AI/CheXplain-Dissection)
+[![preview](code_preview.png)](https://github.com/CAMP-eXplain-AI/CheXplain-Dissection)
 
-## Welcome to GitHub Pages
+#### Citation
+Please cite the work using the below BibTeX (also available on the Open Access link above)
+``` bash
+@misc{khakzar2021semantic,
+      title={Towards Semantic Interpretation of Thoracic Disease and COVID-19 Diagnosis Models}, 
+      author={Ashkan Khakzar and Sabrina Musatian and Jonas Buchberger and Icxel Valeriano Quiroz and Nikolaus Pinger and Soroosh Baselizadeh and Seong Tae Kim and Nassir Navab},
+      year={2021},
+      eprint={2104.02481},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
 
-You can use the [editor on GitHub](https://github.com/CAMP-eXplain-AI/CheXplain-Dissection/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CAMP-eXplain-AI/CheXplain-Dissection/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Contact
+For inquiries and feedback please contact Ashkan Khakzar (ashkan.khakzar@tum.de). We would be happy to help and we appreciate your feedback.
